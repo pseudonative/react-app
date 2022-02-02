@@ -1,0 +1,4 @@
+* @pseudonative
+*.js @pseudonative
+*.yml @jcoando
+/public/ @pseudonative
